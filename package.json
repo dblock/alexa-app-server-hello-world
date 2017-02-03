@@ -4,6 +4,6 @@
   "description": "A sample Alexa app with alexa-app-server.",
   "main": "server.js",
   "dependencies": {
-    "alexa-app-server": "alexa-js/alexa-app-server"
+    "alexa-app-server": "dblock/alexa-app-server#a-little-closer-56"
   }
 }
